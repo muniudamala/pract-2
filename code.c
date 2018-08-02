@@ -5,5 +5,5 @@ now iam in
 #include<stdio.h>
 main()
 {
-int a,b;
+int a,b,c,d;
 }
